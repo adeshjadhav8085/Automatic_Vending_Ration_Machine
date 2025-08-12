@@ -9,7 +9,7 @@ LCD Display Interface – User guidance during the process.
 Low-Cost & Scalable – Designed using readily available components.
 
 Hardware Requirements:
-ATmega328P
+ATmega328P 
 Fingerprint Sensor
 Servo Motor
 Relay Module
